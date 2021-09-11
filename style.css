@@ -1,0 +1,38 @@
+
+
+
+#myVideo {
+    position: fixed;
+    z-index: -1;
+    right: 10;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+    filter: brightness(100%);
+  }
+.card-img{
+    filter: brightness(100%);
+    width: 60%;
+    opacity: 20%;
+}
+.card{
+    height: auto;
+    margin:10px;
+    padding: 20px;
+    display: inline-block;
+}
+.Random{
+    
+    display: inline-block;
+}
+.bg-transparent
+{
+   background-color: transparent;
+}
+.card-title {
+    color: #f4592f;
+    font-size: 60px;
+    text-align: center;
+    font-weight: 400;
+    margin-top: 30px;
+}
